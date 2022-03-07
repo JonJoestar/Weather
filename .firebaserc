@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "my-webpage-c8b98"
-  }
+    "default": "weather-93c56",
+    "weather": "weather-93c56"
+  },
+  "targets": {}
 }
